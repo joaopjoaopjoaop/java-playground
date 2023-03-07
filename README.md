@@ -1,7 +1,9 @@
 # Java Learning Project
 This is a project I created to learn Java. It includes small files that demonstrate different aspects of the language, including control structures, data types, and object-oriented programming for personal use.
 
-![Screenshot](./image.png)
+![Screenshot](image.png)
+
+**WARNING:** _This project is not intended to be used as a reference for best practices. It probably includes errors. Use at your own risk._
 
 ## Ideas for Programs
 * Hello World: A simple program that prints "Hello, world!" to the console. 
